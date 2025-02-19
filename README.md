@@ -20,13 +20,7 @@ This project focuses on transforming raw Uber ride data into a structured, scala
 - **Cloud Services:** Google Cloud (Compute Engine) 
 - **Data Storage & Querying:** BigQuery  
 - **Visualization:** Looker Studio  
-- **Data Formats:** CSV, Relational Tables  
-
-## Project Structure  
-📂 **/data** – Contains raw Uber ride data (sample CSV files).  
-📂 **/scripts** – Python scripts for data transformation and loading.  
-📂 **/queries** – SQL queries used for data modeling and analysis.  
-📂 **/visualizations** – Looker Studio dashboards and insights.  
+- **Data Formats:** CSV, Relational Tables   
 
 ## Insights & Impact  
 📊 **Actionable Insights from Uber Ride Data:**  
