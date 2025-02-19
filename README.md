@@ -12,7 +12,8 @@ This project focuses on transforming raw Uber ride data into a structured, scala
 
 ## Tech Stack  
 - **Programming Languages:** Python, SQL  
-- **Data Processing:** Mage AI  
+- **Data Processing:** Mage AI
+- **Cloud Services:** Google Cloud (Compute Engine) 
 - **Data Storage & Querying:** BigQuery  
 - **Visualization:** Looker Studio  
 - **Data Formats:** CSV, Relational Tables  
