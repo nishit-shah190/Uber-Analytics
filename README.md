@@ -8,7 +8,11 @@ This project focuses on transforming raw Uber ride data into a structured, scala
 - Built a **scalable data pipeline** with **Mage AI**, automating data extraction, transformation, and loading (ETL).  
 - Processed and transformed **100,000+ ride records**, optimizing for performance and analytical insights.  
 - Enabled **efficient exploratory analysis** in **BigQuery**, improving query execution speed.  
-- Designed interactive **visualizations in Looker Studio**, revealing key trends in Uber ride operations and improving query performance by **15%**.  
+- Designed interactive **visualizations in Looker Studio**, revealing key trends in Uber ride operations and improving query performance by **15%**.
+
+## Dashboard Link 🌐  
+📊 **Explore the Uber Data Analysis Dashboard:**  
+🔗 [Uber Analytics Looker Dashboard](https://lookerstudio.google.com/u/0/reporting/bcf5e2aa-07b7-4436-b849-5cc276fd2e8c/page/i62ZE)  
 
 ## Tech Stack  
 - **Programming Languages:** Python, SQL  
